@@ -3,7 +3,57 @@
   "edition": "Hasbro · Europa",
   "notice": "Catálogo preliminar. Verifica nombres, referencias y variantes antes de considerarlo un inventario definitivo.",
   "collections": [
-
+	{
+		"id": "original-1",
+		"name": "Original Series 1",
+		"source": "https://www.coleka.com/en/other-toys/yo-kai-watch/yo-kai-watch-medals/yo-kai-watch-series-1_r410",
+		"medals": [
+			{"id": "original-1-01", "name": "Pandle", "reference": "HAS1001", "image": "images/HAS1001.webp"},
+			{"id": "original-1-02", "name": "Undy", "reference": "HAS1002", "image": "images/HAS1002.webp"},
+			{"id": "original-1-03", "name": "Tanbo", "reference": "HAS1003", "image": "images/HAS1003.webp"},
+			{"id": "original-1-04", "name": "B3-NK1", "reference": "HAS1020", "image": "images/HAS1020.webp"},
+			{"id": "original-1-05", "name": "Kapunki", "reference": "HAS1022", "image": "images/HAS1022.webp"},
+			{"id": "original-1-06", "name": "Cruncha", "reference": "HAS1025", "image": "images/HAS1025.webp"},
+			{"id": "original-1-07", "name": "Wazzat", "reference": "HAS1028", "image": "images/HAS1028.webp"},
+			{"id": "original-1-08", "name": "Q’wit", "reference": "HAS1034", "image": "images/HAS1034.webp"},
+			{"id": "original-1-09", "name": "Tattletell", "reference": "HAS1037", "image": "images/HAS1037.webp"},
+			{"id": "original-1-10", "name": "Tattlecast", "reference": "HAS1038", "image": "images/HAS1038.webp"},
+			{"id": "original-1-11", "name": "Signibble", "reference": "HAS1043", "image": "images/HAS1043.webp"},
+			{"id": "original-1-12", "name": "Infour", "reference": "HAS1052", "image": "images/HAS1052.webp"},
+			{"id": "original-1-13", "name": "Walldin", "reference": "HAS1062", "image": "images/HAS1062.webp"},
+			{"id": "original-1-14", "name": "Roughraff", "reference": "HAS1070", "image": "images/HAS1070.webp"},
+			{"id": "original-1-15", "name": "Badude", "reference": "HAS1071", "image": "images/HAS1071.webp"},
+			{"id": "original-1-16", "name": "Bruff", "reference": "HAS1072", "image": "images/HAS1072.webp"},
+			{"id": "original-1-17", "name": "Rhinoggin", "reference": "HAS1073", "image": "images/HAS1073.webp"},
+			{"id": "original-1-18", "name": "Hornaplenty", "reference": "HAS1075", "image": "images/HAS1075.webp"},
+			{"id": "original-1-19", "name": "Castelius III", "reference": "HAS1076", "image": "images/HAS1076.webp"},
+			{"id": "original-1-20", "name": "Castelius II", "reference": "HAS1077", "image": "images/HAS1077.webp"},
+			{"id": "original-1-21", "name": "Castelius MAX", "reference": "HAS1079", "image": "images/HAS1079.webp"},
+			{"id": "original-1-22", "name": "Swosh", "reference": "HAS1083", "image": "images/HAS1083.webp"},
+			{"id": "original-1-23", "name": "Baddinyan", "reference": "HAS1095", "image": "images/HAS1095.webp"},
+			{"id": "original-1-24", "name": "Walkappa", "reference": "HAS1096", "image": "images/HAS1096.webp"},
+			{"id": "original-1-25", "name": "Komasan", "reference": "HAS1099", "image": "images/HAS1099.webp"},
+			{"id": "original-1-26", "name": "Komajiro", "reference": "HAS1101", "image": "images/HAS1101.webp"},
+			{"id": "original-1-27", "name": "Komiger", "reference": "HAS1102", "image": "images/HAS1102.webp"},
+			{"id": "original-1-28", "name": "Wiglin", "reference": "HAS1111", "image": "images/HAS1111.webp"},
+			{"id": "original-1-29", "name": "Steppa", "reference": "HAS1112", "image": "images/HAS1112.webp"},
+			{"id": "original-1-30", "name": "Rhyth", "reference": "HAS1113", "image": "images/HAS1113.webp"},
+			{"id": "original-1-31", "name": "Hungramps", "reference": "HAS1116", "image": "images/HAS1116.webp"},
+			{"id": "original-1-32", "name": "Ol' Fortune", "reference": "HAS1129", "image": "images/HAS1129.webp"},
+			{"id": "original-1-33", "name": "Abodabat", "reference": "HAS1148", "image": "images/HAS1148.webp"},
+			{"id": "original-1-34", "name": "Awevil", "reference": "HAS1161", "image": "images/HAS1161.webp"},
+			{"id": "original-1-35", "name": "Grumples", "reference": "HAS1184", "image": "images/HAS1184.webp"},
+			{"id": "original-1-36", "name": "Noko", "reference": "HAS1189", "image": "images/HAS1189.webp"},
+			{"id": "original-1-37", "name": "Pandanoko", "reference": "HAS1191", "image": "images/HAS1191.webp"},
+			{"id": "original-1-38", "name": "Urnaconda", "reference": "HAS1194", "image": "images/HAS1194.webp"},
+			{"id": "original-1-39", "name": "Azure dragon", "reference": "HAS1200", "image": "images/HAS1200.webp"},
+			{"id": "original-1-40", "name": "Confuze", "reference": "HAS1202", "image": "images/HAS1202.webp"},
+			{"id": "original-1-41", "name": "Shrook", "reference": "HAS1204", "image": "images/HAS1204.webp"},
+			{"id": "original-1-42", "name": "Cynake", "reference": "HAS1210", "image": "images/HAS1210.webp"},
+			{"id": "original-1-43", "name": "Venoct", "reference": "HAS1212", "image": "images/HAS1212.webp"},
+			{"id": "original-1-44", "name": "Shogunyan", "reference": "HAS1214", "image": "images/HAS1214.webp"}
+		]
+	},
 	{
 		"id": "original-2",
 		"name": "Original Series 2",
@@ -61,193 +111,900 @@
 			{"id": "original-2-50", "name": "Zerberker", "reference": "HAS1026", "image": "images/HAS1026.webp"}
 		]
 	},
-    {
-      "id": "motion-1",
-      "name": "Yo-Motion · Serie 1",
-      "source": "https://www.coleka.com/en/other-toys/yo-kai-watch/yo-kai-watch-medals/yo-kai-watch-yo-motion-series-1_r532",
-      "medals": [
-        {
-          "id": "motion-1-01",
-          "name": "Robonyan",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-1-02",
-          "name": "Jibanyan",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-1-03",
-          "name": "Walkappa",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-1-04",
-          "name": "Happierre",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-1-05",
-          "name": "Hidabat",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-1-06",
-          "name": "Dismarelda",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-1-07",
-          "name": "Lie-in",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-1-08",
-          "name": "Lie-in Heart",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-1-09",
-          "name": "Hissfit",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-1-10",
-          "name": "Slicenrice",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-1-11",
-          "name": "Flamurice",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-1-12",
-          "name": "Sgt. Burly",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-1-13",
-          "name": "Demuncher",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-1-14",
-          "name": "Devourer",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-1-15",
-          "name": "Brokenbella",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-1-16",
-          "name": "Bowminos",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-1-17",
-          "name": "Smogmella",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-1-18",
-          "name": "Miradox",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-1-19",
-          "name": "Pride Shrimp",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-1-20",
-          "name": "Zappary",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-1-21",
-          "name": "Swelton",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-1-22",
-          "name": "Boyclops",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-1-23",
-          "name": "Buchinyan",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-1-24",
-          "name": "Kappa",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-1-25",
-          "name": "Tongus",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-1-26",
-          "name": "Pallysol",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-1-27",
-          "name": "Smashibull",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-1-28",
-          "name": "Firewig",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-1-29",
-          "name": "Lady Longnek",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-1-30",
-          "name": "Spoilerina",
-          "reference": "",
-          "image": ""
-        }
-      ]
-    },
+	{
+		"id": "original-3",
+		"name": "Original Series 3",
+		"source": "https://www.coleka.com/en/other-toys/yo-kai-watch/yo-kai-watch-medals/yo-kai-watch-series-3_r413",
+		"medals": [
+			{"id": "original-3-01", "name": "Minochi", "reference": "HAS1008", "image": "images/HAS1008.webp"},
+			{"id": "original-3-02", "name": "Helmsman", "reference": "HAS1009", "image": "images/HAS1009.webp"},
+			{"id": "original-3-03", "name": "Reuknight", "reference": "HAS1010", "image": "images/HAS1010.webp"},
+			{"id": "original-3-04", "name": "Duchoo", "reference": "HAS1031", "image": "images/HAS1031.webp"},
+			{"id": "original-3-05", "name": "D'wanna", "reference": "HAS1032", "image": "images/HAS1032.webp"},
+			{"id": "original-3-06", "name": "Skranny", "reference": "HAS1039", "image": "images/HAS1039.webp"},
+			{"id": "original-3-07", "name": "Casanono", "reference": "HAS1042", "image": "images/HAS1042.webp"},
+			{"id": "original-3-08", "name": "Signiton", "reference": "HAS1044", "image": "images/HAS1044.webp"},
+			{"id": "original-3-09", "name": "Mirapo", "reference": "HAS1046", "image": "images/HAS1046.webp"},
+			{"id": "original-3-10", "name": "Mircle", "reference": "HAS1047", "image": "images/HAS1047.webp"},
+			{"id": "original-3-11", "name": "Elloo", "reference": "HAS1049", "image": "images/HAS1049.webp"},
+			{"id": "original-3-12", "name": "Alloo", "reference": "HAS1050", "image": "images/HAS1050.webp"},
+			{"id": "original-3-13", "name": "Espy", "reference": "HAS1051", "image": "images/HAS1051.webp"},
+			{"id": "original-3-14", "name": "Dulluma", "reference": "HAS1057", "image": "images/HAS1057.webp"},
+			{"id": "original-3-15", "name": "Darumacho", "reference": "HAS1058", "image": "images/HAS1058.webp"},
+			{"id": "original-3-16", "name": "Goruma", "reference": "HAS1059", "image": "images/HAS1059.webp"},
+			{"id": "original-3-17", "name": "Impass", "reference": "HAS1061", "image": "images/HAS1061.webp"},
+			{"id": "original-3-18", "name": "Armsman", "reference": "HAS1063", "image": "images/HAS1063.webp"},
+			{"id": "original-3-19", "name": "Rhinormous", "reference": "HAS1074", "image": "images/HAS1074.webp"},
+			{"id": "original-3-20", "name": "Cadable", "reference": "HAS1088", "image": "images/HAS1088.webp"},
+			{"id": "original-3-21", "name": "Chilhuahua", "reference": "HAS1091", "image": "images/HAS1091.webp"},
+			{"id": "original-3-22", "name": "Swelterrier", "reference": "HAS1092", "image": "images/HAS1092.webp"},
+			{"id": "original-3-23", "name": "Appak", "reference": "HAS1097", "image": "images/HAS1097.webp"},
+			{"id": "original-3-24", "name": "Komane", "reference": "HAS1100", "image": "images/HAS1100.webp"},
+			{"id": "original-3-25", "name": "Baku", "reference": "HAS1103", "image": "images/HAS1103.webp"},
+			{"id": "original-3-26", "name": "Whapir", "reference": "HAS1104", "image": "images/HAS1104.webp"},
+			{"id": "original-3-27", "name": "Shmoopie", "reference": "HAS1105", "image": "images/HAS1105.webp"},
+			{"id": "original-3-28", "name": "Frostina", "reference": "HAS1108", "image": "images/HAS1108.webp"},
+			{"id": "original-3-29", "name": "Wantston", "reference": "HAS1114", "image": "images/HAS1114.webp"},
+			{"id": "original-3-30", "name": "Hungorge", "reference": "HAS1117", "image": "images/HAS1117.webp"},
+			{"id": "original-3-31", "name": "Grainpa", "reference": "HAS1118", "image": "images/HAS1118.webp"},
+			{"id": "original-3-32", "name": "Peppillon", "reference": "HAS1124", "image": "images/HAS1124.webp"},
+			{"id": "original-3-33", "name": "Reversa", "reference": "HAS1126", "image": "images/HAS1126.webp"},
+			{"id": "original-3-34", "name": "Payn", "reference": "HAS1139", "image": "images/HAS1139.webp"},
+			{"id": "original-3-35", "name": "Scritchy", "reference": "HAS1143", "image": "images/HAS1143.webp"},
+			{"id": "original-3-36", "name": "Belfree", "reference": "HAS1149", "image": "images/HAS1149.webp"},
+			{"id": "original-3-37", "name": "Greesel", "reference": "HAS1160", "image": "images/HAS1160.webp"},
+			{"id": "original-3-38", "name": "Peckpocket", "reference": "HAS1164", "image": "images/HAS1164.webp"},
+			{"id": "original-3-39", "name": "Rockabelly", "reference": "HAS1165", "image": "images/HAS1165.webp"},
+			{"id": "original-3-40", "name": "Skreek", "reference": "HAS1168", "image": "images/HAS1168.webp"},
+			{"id": "original-3-41", "name": "Nagatha", "reference": "HAS1178", "image": "images/HAS1178.webp"},
+			{"id": "original-3-42", "name": "Lamedian", "reference": "HAS1183", "image": "images/HAS1183.webp"},
+			{"id": "original-3-43", "name": "Eterna", "reference": "HAS1186", "image": "images/HAS1186.webp"},
+			{"id": "original-3-44", "name": "Insomni", "reference": "HAS1187", "image": "images/HAS1187.webp"},
+			{"id": "original-3-45", "name": "Sandi", "reference": "HAS1188", "image": "images/HAS1188.webp"},
+			{"id": "original-3-46", "name": "Rageon", "reference": "HAS1196", "image": "images/HAS1196.webp"},
+			{"id": "original-3-47", "name": "Draggie", "reference": "HAS1198", "image": "images/HAS1198.webp"},
+			{"id": "original-3-48", "name": "Almi", "reference": "HAS1206", "image": "images/HAS1206.webp"},
+			{"id": "original-3-49", "name": "Slitheref", "reference": "HAS1211", "image": "images/HAS1211.webp"},
+			{"id": "original-3-50", "name": "Dandoodle", "reference": "HAS1216", "image": "images/HAS1216.webp"}
+		]
+	},
+	{
+		"id": "original-4",
+		"name": "Original Series 4",
+		"source": "https://www.coleka.com/en/other-toys/yo-kai-watch/yo-kai-watch-medals/yo-kai-watch-series-4_r456",
+		"medals": [
+			{
+				"id": "original-4-01",
+				"name": "Cutta-nah-nah",
+				"reference": "HAS1005",
+				"image": "images/HAS1005.webp"
+			},
+			{
+				"id": "original-4-02",
+				"name": "Mochismo",
+				"reference": "HAS1007",
+				"image": "images/HAS1007.webp"
+			},
+			{
+				"id": "original-4-03",
+				"name": "Corptain",
+				"reference": "HAS1011",
+				"image": "images/HAS1011.webp"
+			},
+			{
+				"id": "original-4-04",
+				"name": "Quaken",
+				"reference": "HAS1013",
+				"image": "images/HAS1013.webp"
+			},
+			{
+				"id": "original-4-05",
+				"name": "Siro",
+				"reference": "HAS1014",
+				"image": "images/HAS1014.webp"
+			},
+			{
+				"id": "original-4-06",
+				"name": "Chansin",
+				"reference": "HAS1015",
+				"image": "images/HAS1015.webp"
+			},
+			{
+				"id": "original-4-07",
+				"name": "Sheen",
+				"reference": "HAS1016",
+				"image": "images/HAS1016.webp"
+			},
+			{
+				"id": "original-4-08",
+				"name": "Snee",
+				"reference": "HAS1017",
+				"image": "images/HAS1017.webp"
+			},
+			{
+				"id": "original-4-09",
+				"name": "Gleam",
+				"reference": "HAS1018",
+				"image": "images/HAS1018.webp"
+			},
+			{
+				"id": "original-4-10",
+				"name": "Benkei",
+				"reference": "HAS1019",
+				"image": "images/HAS1019.webp"
+			},
+			{
+				"id": "original-4-11",
+				"name": "Sushiyama",
+				"reference": "HAS1021",
+				"image": "images/HAS1021.webp"
+			},
+			{
+				"id": "original-4-12",
+				"name": "Beetler",
+				"reference": "HAS1023",
+				"image": "images/HAS1023.webp"
+			},
+			{
+				"id": "original-4-13",
+				"name": "N'more",
+				"reference": "HAS1033",
+				"image": "images/HAS1033.webp"
+			},
+			{
+				"id": "original-4-14",
+				"name": "Lafalotta",
+				"reference": "HAS1035",
+				"image": "images/HAS1035.webp"
+			},
+			{
+				"id": "original-4-15",
+				"name": "Blips",
+				"reference": "HAS1036",
+				"image": "images/HAS1036.webp"
+			},
+			{
+				"id": "original-4-16",
+				"name": "Cupistol",
+				"reference": "HAS1040",
+				"image": "images/HAS1040.webp"
+			},
+			{
+				"id": "original-4-17",
+				"name": "Illoo",
+				"reference": "HAS1048",
+				"image": "images/HAS1048.webp"
+			},
+			{
+				"id": "original-4-18",
+				"name": "Tengu",
+				"reference": "HAS1053",
+				"image": "images/HAS1053.webp"
+			},
+			{
+				"id": "original-4-19",
+				"name": "Blowkade",
+				"reference": "HAS1066",
+				"image": "images/HAS1066.webp"
+			},
+			{
+				"id": "original-4-20",
+				"name": "Ledballoon",
+				"reference": "HAS1067",
+				"image": "images/HAS1067.webp"
+			},
+			{
+				"id": "original-4-21",
+				"name": "Castelius I",
+				"reference": "HAS1078",
+				"image": "images/HAS1078.webp"
+			},
+			{
+				"id": "original-4-22",
+				"name": "Cadin",
+				"reference": "HAS1087",
+				"image": "images/HAS1087.webp"
+			},
+			{
+				"id": "original-4-23",
+				"name": "Singcada",
+				"reference": "HAS1089",
+				"image": "images/HAS1089.webp"
+			},
+			{
+				"id": "original-4-24",
+				"name": "Supyo",
+				"reference": "HAS1098",
+				"image": "images/HAS1098.webp"
+			},
+			{
+				"id": "original-4-25",
+				"name": "Grubsnitch",
+				"reference": "HAS1115",
+				"image": "images/HAS1115.webp"
+			},
+			{
+				"id": "original-4-26",
+				"name": "Lodo",
+				"reference": "HAS1119",
+				"image": "images/HAS1119.webp"
+			},
+			{
+				"id": "original-4-27",
+				"name": "Happierre",
+				"reference": "HAS1125",
+				"image": "images/HAS1125.webp"
+			},
+			{
+				"id": "original-4-28",
+				"name": "Ol' Saint Trick",
+				"reference": "HAS1128",
+				"image": "images/HAS1128.webp"
+			},
+			{
+				"id": "original-4-29",
+				"name": "Dubbles",
+				"reference": "HAS1131",
+				"image": "images/HAS1131.webp"
+			},
+			{
+				"id": "original-4-30",
+				"name": "Papa Bolt",
+				"reference": "HAS1132",
+				"image": "images/HAS1132.webp"
+			},
+			{
+				"id": "original-4-31",
+				"name": "Uncle Infinite",
+				"reference": "HAS1133",
+				"image": "images/HAS1133.webp"
+			},
+			{
+				"id": "original-4-32",
+				"name": "Leadoni",
+				"reference": "HAS1136",
+				"image": "images/HAS1136.webp"
+			},
+			{
+				"id": "original-4-33",
+				"name": "Mynimo",
+				"reference": "HAS1137",
+				"image": "images/HAS1137.webp"
+			},
+			{
+				"id": "original-4-34",
+				"name": "Ake",
+				"reference": "HAS1138",
+				"image": "images/HAS1138.webp"
+			},
+			{
+				"id": "original-4-35",
+				"name": "Negatibuzz",
+				"reference": "HAS1141",
+				"image": "images/HAS1141.webp"
+			},
+			{
+				"id": "original-4-36",
+				"name": "Moskevil",
+				"reference": "HAS1142",
+				"image": "images/HAS1142.webp"
+			},
+			{
+				"id": "original-4-37",
+				"name": "Blandon",
+				"reference": "HAS1145",
+				"image": "images/HAS1145.webp"
+			},
+			{
+				"id": "original-4-38",
+				"name": "Nul",
+				"reference": "HAS1146",
+				"image": "images/HAS1146.webp"
+			},
+			{
+				"id": "original-4-39",
+				"name": "Nird",
+				"reference": "HAS1154",
+				"image": "images/HAS1154.webp"
+			},
+			{
+				"id": "original-4-40",
+				"name": "Neighfarious",
+				"reference": "HAS1156",
+				"image": "images/HAS1156.webp"
+			},
+			{
+				"id": "original-4-41",
+				"name": "Beelzebold",
+				"reference": "HAS1158",
+				"image": "images/HAS1158.webp"
+			},
+			{
+				"id": "original-4-42",
+				"name": "Droplette",
+				"reference": "HAS1172",
+				"image": "images/HAS1172.webp"
+			},
+			{
+				"id": "original-4-43",
+				"name": "Drizzle",
+				"reference": "HAS1173",
+				"image": "images/HAS1173.webp"
+			},
+			{
+				"id": "original-4-44",
+				"name": "Dismarelda",
+				"reference": "HAS1179",
+				"image": "images/HAS1179.webp"
+			},
+			{
+				"id": "original-4-45",
+				"name": "Tunatic",
+				"reference": "HAS1197",
+				"image": "images/HAS1197.webp"
+			},
+			{
+				"id": "original-4-46",
+				"name": "Chummer",
+				"reference": "HAS1203",
+				"image": "images/HAS1203.webp"
+			},
+			{
+				"id": "original-4-47",
+				"name": "Babblong",
+				"reference": "HAS1207",
+				"image": "images/HAS1207.webp"
+			},
+			{
+				"id": "original-4-48",
+				"name": "Bananose",
+				"reference": "HAS1208",
+				"image": "images/HAS1208.webp"
+			},
+			{
+				"id": "original-4-49",
+				"name": "Shadow Venoct",
+				"reference": "HAS1213",
+				"image": "images/HAS1213.webp"
+			},
+			{
+				"id": "original-4-50",
+				"name": "Komashura",
+				"reference": "HAS1215",
+				"image": "images/HAS1215.webp"
+			}
+		]
+	},
+	{
+		"id": "promotional",
+		"name": "Original · Exclusivas",
+		"source": "https://www.coleka.com/en/other-toys/yo-kai-watch/yo-kai-watch-medals/yo-kai-watch-exclusives_r412",
+		"medals": [
+			{
+				"id": "promotional_cutta_nah",
+				"name": "Cutta-nah",
+				"reference": "promo01",
+				"image": "images/promo01.webp"
+			},
+			{
+				"id": "promotional_blazion",
+				"name": "Blazion",
+				"reference": "promo02",
+				"image": "images/promo02.webp"
+			},
+			{
+				"id": "promotional_beetall",
+				"name": "Beetall (from the collection book pages kit)",
+				"reference": "promo03",
+				"image": "images/promo03.webp"
+			},
+			{
+				"id": "promotional_snartle",
+				"name": "Snartle (Medallium Pages Series 2)",
+				"reference": "promo04",
+				"image": "images/promo04.webp"
+			},
+			{
+				"id": "promotional_casanuva",
+				"name": "Casanuva",
+				"reference": "promo05",
+				"image": "images/promo05.webp"
+			},
+			{
+				"id": "promotional_statiking",
+				"name": "Statiking",
+				"reference": "promo06",
+				"image": "images/promo06.webp"
+			},
+			{
+				"id": "promotional_fl engu",
+				"name": "Flengu (Nintendo 3DS exclusive)",
+				"reference": "promo07",
+				"image": "images/promo07.webp"
+			},
+			{
+				"id": "promotional_kyubi_medallium",
+				"name": "Kyubi (from Medallium collection Book 1)",
+				"reference": "promo08",
+				"image": "images/promo08.webp"
+			},
+			{
+				"id": "promotional_robonyan_pack",
+				"name": "Robonyan (from 4 figures pack)",
+				"reference": "promo09",
+				"image": "images/promo09.webp"
+			},
+			{
+				"id": "promotional_robonyan_medal_moment",
+				"name": "Robonyan - Medal Moment",
+				"reference": "promo10",
+				"image": "images/promo10.webp"
+			},
+			{
+				"id": "promotional_goldenyan",
+				"name": "Goldenyan (monopoly Junior)",
+				"reference": "promo11",
+				"image": "images/promo11.webp"
+			},
+			{
+				"id": "promotional_rattelle",
+				"name": "Rattelle",
+				"reference": "promo12",
+				"image": "images/promo12.webp"
+			},
+			{
+				"id": "promotional_jibanyan",
+				"name": "Jibanyan",
+				"reference": "promo13",
+				"image": "images/promo13.webp"
+			},
+			{
+				"id": "promotional_jibanyan_conversion",
+				"name": "Jibanyan (from converting Jibanyan - Baddinyan)",
+				"reference": "promo14",
+				"image": "images/promo14.webp"
+			},
+			{
+				"id": "promotional_jibanyan_watch",
+				"name": "Jibanyan (from watch)",
+				"reference": "promo15",
+				"image": "images/promo15.webp"
+			},
+			{
+				"id": "promotional_jibanyan_medal_moments",
+				"name": "Jibanyan (medal moments)",
+				"reference": "promo16",
+				"image": "images/promo16.webp"
+			},
+			{
+				"id": "promotional_jibanyan_100_punch",
+				"name": "Jibanyan 100 Punch",
+				"reference": "promo17",
+				"image": "images/promo17.webp"
+			},
+			{
+				"id": "promotional_thornyan",
+				"name": "Thornyan (from the 4 figures pack)",
+				"reference": "promo18",
+				"image": "images/promo18.webp"
+			},
+			{
+				"id": "promotional_baddinyan",
+				"name": "Baddinyan (Vinyle figures 3-Pack)",
+				"reference": "promo19",
+				"image": "images/promo19.webp"
+			},
+			{
+				"id": "promotional_walkappa",
+				"name": "Walkappa (Trading card game)",
+				"reference": "promo20",
+				"image": "images/promo20.webp"
+			},
+			{
+				"id": "promotional_komasan_businessman",
+				"name": "Komasan Businessman",
+				"reference": "promo21",
+				"image": "images/promo21.webp"
+			},
+			{
+				"id": "promotional_komajiro",
+				"name": "Komajiro",
+				"reference": "promo22",
+				"image": "images/promo22.webp"
+			},
+			{
+				"id": "promotional_chippa",
+				"name": "Chippa",
+				"reference": "promo23",
+				"image": "images/promo23.webp"
+			},
+			{
+				"id": "promotional_enefly",
+				"name": "Enefly",
+				"reference": "promo24",
+				"image": "images/promo24.webp"
+			},
+			{
+				"id": "promotional_betterfly",
+				"name": "Betterfly",
+				"reference": "promo25",
+				"image": "images/promo25.webp"
+			},
+			{
+				"id": "promotional_count_cavity",
+				"name": "Count Cavity (from Game of life box)",
+				"reference": "promo26",
+				"image": "images/promo26.webp"
+			},
+			{
+				"id": "promotional_coughkoff",
+				"name": "Coughkoff",
+				"reference": "promo27",
+				"image": "images/promo27.webp"
+			},
+			{
+				"id": "promotional_hurchin",
+				"name": "Hurchin",
+				"reference": "promo28",
+				"image": "images/promo28.webp"
+			},
+			{
+				"id": "promotional_flumpy",
+				"name": "Flumpy",
+				"reference": "promo29",
+				"image": "images/promo29.webp"
+			},
+			{
+				"id": "promotional_slush",
+				"name": "Slush",
+				"reference": "promo30",
+				"image": "images/promo30.webp"
+			},
+			{
+				"id": "promotional_gush",
+				"name": "Gush",
+				"reference": "promo31",
+				"image": "images/promo31.webp"
+			},
+			{
+				"id": "promotional_spenp",
+				"name": "Spenp (from Game of Life Box)",
+				"reference": "promo32",
+				"image": "images/promo32.webp"
+			},
+			{
+				"id": "promotional_gilgaros",
+				"name": "Gilgaros",
+				"reference": "promo33",
+				"image": "images/promo33.webp"
+			},
+			{
+				"id": "promotional_sapphinyan",
+				"name": "Sapphinyan",
+				"reference": "promo34",
+				"image": "images/promo34.webp"
+			},
+			{
+				"id": "promotional_emenyan",
+				"name": "Emenyan",
+				"reference": "promo35",
+				"image": "images/promo35.webp"
+			},
+			{
+				"id": "promotional_rubinyan",
+				"name": "Rubinyan",
+				"reference": "promo36",
+				"image": "images/promo36.webp"
+			},
+			{
+				"id": "promotional_topanyan",
+				"name": "Topanyan",
+				"reference": "promo37",
+				"image": "images/promo37.webp"
+			},
+			{
+				"id": "promotional_dianyan",
+				"name": "Dianyan",
+				"reference": "promo38",
+				"image": "images/promo38.webp"
+			},
+			{
+				"id": "promotional_whisper_watch",
+				"name": "Whisper (from watch)",
+				"reference": "promo39",
+				"image": "images/promo39.webp"
+			},
+			{
+				"id": "promotional_whisper_pad",
+				"name": "Whisper (Yo-kai Watch Pad)",
+				"reference": "promo40",
+				"image": "images/promo40.webp"
+			},
+			{
+				"id": "promotional_whisper_medal_moment",
+				"name": "Whisper - Medal Moment",
+				"reference": "promo41",
+				"image": "images/promo41.webp"
+			},
+			{
+				"id": "promotional_jibanyan_exclusive",
+				"name": "Jibanyan (Exclusive)",
+				"reference": "promo42",
+				"image": "images/promo42.webp"
+			},
+			{
+				"id": "promotional_jibanyan_nycc",
+				"name": "Jibanyan New York Comic Con 2015",
+				"reference": "promo43",
+				"image": "images/promo43.webp"
+			},
+			{
+				"id": "promotional_jewelnyan_set",
+				"name": "JEWELNYAN SET (SDCC 2016) #1",
+				"reference": "promo44",
+				"image": "images/promo44a.webp"
+			},
+			{
+				"id": "promotional_jewelnyan_set",
+				"name": "JEWELNYAN SET (SDCC 2016) #2",
+				"reference": "promo44",
+				"image": "images/promo44b.webp"
+			},
+			{
+				"id": "promotional_jewelnyan_set",
+				"name": "JEWELNYAN SET (SDCC 2016) #3",
+				"reference": "promo44",
+				"image": "images/promo44c.webp"
+			},
+			{
+				"id": "promotional_jewelnyan_set",
+				"name": "JEWELNYAN SET (SDCC 2016) #4",
+				"reference": "promo44",
+				"image": "images/promo44d.webp"
+			},
+			{
+				"id": "promotional_jewelnyan_set",
+				"name": "JEWELNYAN SET (SDCC 2016) #5",
+				"reference": "promo44",
+				"image": "images/promo44e.webp"
+			},
+			{
+				"id": "promotional_jibanyan_vinyl_pack",
+				"name": "Jibanyan (vinyle figures 3-pack)",
+				"reference": "promo45",
+				"image": "images/promo45.webp"
+			},
+			{
+				"id": "promotional_kyubi_tcg",
+				"name": "Kyubi (Trading card Game)",
+				"reference": "promo46",
+				"image": "images/promo46.webp"
+			},
+			{
+				"id": "promotional_pandanoko",
+				"name": "Pandanoko (Nathan pack)",
+				"reference": "promo47",
+				"image": "images/promo47.webp"
+			},
+			{
+				"id": "promotional_robonyan_tcg",
+				"name": "Robonyan (Trading Card Game)",
+				"reference": "promo48",
+				"image": "images/promo48.webp"
+			},
+			{
+				"id": "promotional_robonyan_racing_car",
+				"name": "Robonyan - Racing Car",
+				"reference": "promo49",
+				"image": "images/promo49.webp"
+			},
+			{
+				"id": "promotional_roughraff_vinyl_pack",
+				"name": "Roughraff (vinyle figure 3-pack)",
+				"reference": "promo50",
+				"image": "images/promo50.webp"
+			},
+			{
+				"id": "promotional_whisper_butler",
+				"name": "Whisper in Butler suit",
+				"reference": "promo51",
+				"image": "images/promo51.webp"
+			},
+			{
+				"id": "promotional_whisper_wizard",
+				"name": "Whisper Wizard",
+				"reference": "promo52",
+				"image": "images/promo52.webp"
+			}
+		]
+	},
+	{
+		"id": "yo-motion-series-1",
+		"name": "Yo-Motion · Serie 1",
+		"source": "https://www.coleka.com/en/other-toys/yo-kai-watch/yo-kai-watch-medals/yo-kai-watch-yo-motion-series-1_r532",
+		"medals": [
+			{
+				"id": "ym1_robonyan",
+				"name": "Robonyan",
+				"reference": "HAS1080-2",
+				"image": "images/HAS1080-2.webp"
+			},
+			{
+				"id": "ym1_jibanyan",
+				"name": "Jibanyan",
+				"reference": "HAS1093-2",
+				"image": "images/HAS1093-2.webp"
+			},
+			{
+				"id": "ym1_walkappa",
+				"name": "Walkappa",
+				"reference": "HAS1096-2",
+				"image": "images/HAS1096-2.webp"
+			},
+			{
+				"id": "ym1_happierre",
+				"name": "Happierre",
+				"reference": "HAS1125-2",
+				"image": "images/HAS1125-2.webp"
+			},
+			{
+				"id": "ym1_hidabat",
+				"name": "Hidabat",
+				"reference": "HAS1147-2",
+				"image": "images/HAS1147-2.webp"
+			},
+			{
+				"id": "ym1_dismarelda",
+				"name": "Dismarelda",
+				"reference": "HAS1179-2",
+				"image": "images/HAS1179-2.webp"
+			},
+			{
+				"id": "ym1_lie-in",
+				"name": "Lie-in",
+				"reference": "HAS2003",
+				"image": "images/HAS2003.webp"
+			},
+			{
+				"id": "ym1_lie-in-heart",
+				"name": "Lie-in Heart",
+				"reference": "HAS2004",
+				"image": "images/HAS2004.webp"
+			},
+			{
+				"id": "ym1_hissfit",
+				"name": "Hissfit",
+				"reference": "HAS2005",
+				"image": "images/HAS2005.webp"
+			},
+			{
+				"id": "ym1_slicenrice",
+				"name": "Slicenrice",
+				"reference": "HAS2007",
+				"image": "images/HAS2007.webp"
+			},
+			{
+				"id": "ym1_flamurice",
+				"name": "Flamurice",
+				"reference": "HAS2008",
+				"image": "images/HAS2008.webp"
+			},
+			{
+				"id": "ym1_sgt-burly",
+				"name": "Sgt. Burly",
+				"reference": "HAS2010",
+				"image": "images/HAS2010.webp"
+			},
+			{
+				"id": "ym1_demuncher",
+				"name": "Demuncher",
+				"reference": "HAS2011",
+				"image": "images/HAS2011.webp"
+			},
+			{
+				"id": "ym1_devourer",
+				"name": "Devourer",
+				"reference": "HAS2012",
+				"image": "images/HAS2012.webp"
+			},
+			{
+				"id": "ym1_brokenbella",
+				"name": "Brokenbella",
+				"reference": "HAS2013",
+				"image": "images/HAS2013.webp"
+			},
+			{
+				"id": "ym1_bowminos",
+				"name": "Bowminos",
+				"reference": "HAS2018",
+				"image": "images/HAS2018.webp"
+			},
+			{
+				"id": "ym1_smogmella",
+				"name": "Smogmella",
+				"reference": "HAS2020",
+				"image": "images/HAS2020.webp"
+			},
+			{
+				"id": "ym1_miradox",
+				"name": "Miradox",
+				"reference": "HAS2024",
+				"image": "images/HAS2024.webp"
+			},
+			{
+				"id": "ym1_pride-shrimp",
+				"name": "Pride Shrimp",
+				"reference": "HAS2030",
+				"image": "images/HAS2030.webp"
+			},
+			{
+				"id": "ym1_zappary",
+				"name": "Zappary",
+				"reference": "HAS2035",
+				"image": "images/HAS2035.webp"
+			},
+			{
+				"id": "ym1_swelton",
+				"name": "Swelton",
+				"reference": "HAS2037",
+				"image": "images/HAS2037.webp"
+			},
+			{
+				"id": "ym1_boyclops",
+				"name": "Boyclops",
+				"reference": "HAS2042",
+				"image": "images/HAS2042.webp"
+			},
+			{
+				"id": "ym1_buchinyan",
+				"name": "Buchinyan",
+				"reference": "HAS2043",
+				"image": "images/HAS2043.webp"
+			},
+			{
+				"id": "ym1_kappa",
+				"name": "Kappa",
+				"reference": "HAS2048",
+				"image": "images/HAS2048.webp"
+			},
+			{
+				"id": "ym1_tongus",
+				"name": "Tongus",
+				"reference": "HAS2052",
+				"image": "images/HAS2052.webp"
+			},
+			{
+				"id": "ym1_pallysol",
+				"name": "Pallysol",
+				"reference": "HAS2056",
+				"image": "images/HAS2056.webp"
+			},
+			{
+				"id": "ym1_smashibull",
+				"name": "Smashibull",
+				"reference": "HAS2062",
+				"image": "images/HAS2062.webp"
+			},
+			{
+				"id": "ym1_firewig",
+				"name": "Firewig",
+				"reference": "HAS2102",
+				"image": "images/HAS2102.webp"
+			},
+			{
+				"id": "ym1_lady-longnek",
+				"name": "Lady Longnek",
+				"reference": "HAS2106",
+				"image": "images/HAS2106.webp"
+			},
+			{
+				"id": "ym1_spoilerina",
+				"name": "Spoilerina",
+				"reference": "HAS2109",
+				"image": "images/HAS2109.webp"
+			}
+		]
+	},
     {
       "id": "motion-2",
       "name": "Yo-Motion · Serie 2",
@@ -453,541 +1210,752 @@
         }
       ]
     },
-    {
-      "id": "motion-3",
-      "name": "Yo-Motion · Serie 3",
-      "source": "https://www.coleka.com/en/other-toys/yo-kai-watch/yo-kai-watch-medals/yo-kai-watch-yo-motion-series-3_r2185",
-      "medals": [
-        {
-          "id": "motion-3-01",
-          "name": "Blazion",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-02",
-          "name": "Tattletell",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-03",
-          "name": "Fidgephant",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-04",
-          "name": "Roughraff",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-05",
-          "name": "Pandanoko",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-06",
-          "name": "Shogunyan",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-07",
-          "name": "Whisper",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-08",
-          "name": "Brushido",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-09",
-          "name": "Washogun",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-10",
-          "name": "Failian",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-11",
-          "name": "Mimikin",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-12",
-          "name": "Toadal Dude",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-13",
-          "name": "Leggly",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-14",
-          "name": "Bakulia",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-15",
-          "name": "Sandmeh",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-16",
-          "name": "Mr. Sandmeh",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-17",
-          "name": "Scarasol",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-18",
-          "name": "High Gnomey",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-19",
-          "name": "Allnyta",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-20",
-          "name": "Herbiboy",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-21",
-          "name": "Carniboy",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-22",
-          "name": "Yoink",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-23",
-          "name": "Gimme (Swipinstuff)",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-24",
-          "name": "Count Zapaway",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-25",
-          "name": "Eyellure",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-26",
-          "name": "Furdinand",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-27",
-          "name": "Nosirs",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-28",
-          "name": "Arachnus",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-29",
-          "name": "Whinona",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-30",
-          "name": "Flushback",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-31",
-          "name": "Robogramps",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-32",
-          "name": "Robonoko",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-33",
-          "name": "Snottle",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-3-34",
-          "name": "Illuminoct",
-          "reference": "",
-          "image": ""
-        }
-      ]
-    },
-    {
-      "id": "motion-4",
-      "name": "Yo-Motion · Serie 4",
-      "source": "https://www.coleka.com/en/other-toys/yo-kai-watch/yo-kai-watch-medals/yo-kai-watch-yo-motion-series-4_r3100",
-      "medals": [
-        {
-          "id": "motion-4-01",
-          "name": "Lafalotta",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-02",
-          "name": "Infour",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-03",
-          "name": "Noway",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-04",
-          "name": "Bruff",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-05",
-          "name": "Suspicioni",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-06",
-          "name": "Cheeksqueek",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-07",
-          "name": "Heheheel",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-08",
-          "name": "Daiz",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-09",
-          "name": "Tublappa",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-10",
-          "name": "Master Oden",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-11",
-          "name": "Wotchagot",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-12",
-          "name": "Enduriphant",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-13",
-          "name": "Jumbelina",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-14",
-          "name": "Drizzelda",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-15",
-          "name": "Nurse Tongus",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-16",
-          "name": "Gnomey",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-17",
-          "name": "Ray O'Light",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-18",
-          "name": "Unikirin",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-19",
-          "name": "Wydeawake",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-20",
-          "name": "Snobetty",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-21",
-          "name": "Slimamander",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-22",
-          "name": "Wobblewok (Pottergeist)",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-23",
-          "name": "Robbinyu",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-24",
-          "name": "Squeeky",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-25",
-          "name": "Rawry",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-26",
-          "name": "Furgus",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-27",
-          "name": "Toiletta",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-28",
-          "name": "Foiletta",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-29",
-          "name": "Arachnia",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-30",
-          "name": "Vacuumory",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-31",
-          "name": "Draaagin",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-32",
-          "name": "Slurpent",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-33",
-          "name": "Robokapp",
-          "reference": "",
-          "image": ""
-        },
-        {
-          "id": "motion-4-34",
-          "name": "Robodraggie",
-          "reference": "",
-          "image": ""
-        }
-      ]
-    },
+	{
+		"id": "motion-3",
+		"name": "Yo-Motion · Serie 3",
+		"source": "https://www.coleka.com/en/other-toys/yo-kai-watch/yo-kai-watch-medals/yo-kai-watch-yo-motion-series-3_r2185",
+		"medals": [
+			{
+				"id": "motion3_blazion",
+				"name": "Blazion",
+				"reference": "HAS1012-2",
+				"image": "images/HAS1012-2.webp"
+			},
+			{
+				"id": "motion3_tattletell",
+				"name": "Tattletell",
+				"reference": "HAS1037-2",
+				"image": "images/HAS1037-2.webp"
+			},
+			{
+				"id": "motion3_fidgephant",
+				"name": "Fidgephant",
+				"reference": "HAS1064-2",
+				"image": "images/HAS1064-2.webp"
+			},
+			{
+				"id": "motion3_roughraff",
+				"name": "Roughraff",
+				"reference": "HAS1070-2",
+				"image": "images/HAS1070-2.webp"
+			},
+			{
+				"id": "motion3_pandanoko",
+				"name": "Pandanoko",
+				"reference": "HAS1191-2",
+				"image": "images/HAS1191-2.webp"
+			},
+			{
+				"id": "motion3_shogunyan",
+				"name": "Shogunyan",
+				"reference": "HAS1214-2",
+				"image": "images/HAS1214-2.webp"
+			},
+			{
+				"id": "motion3_whisper",
+				"name": "Whisper",
+				"reference": "HAS1224-2",
+				"image": "images/HAS1224-2.webp"
+			},
+			{
+				"id": "motion3_brushido",
+				"name": "Brushido",
+				"reference": "HAS2001",
+				"image": "images/HAS2001.webp"
+			},
+			{
+				"id": "motion3_washogun",
+				"name": "Washogun",
+				"reference": "HAS2002",
+				"image": "images/HAS2002.webp"
+			},
+			{
+				"id": "motion3_failian",
+				"name": "Failian",
+				"reference": "HAS2022",
+				"image": "images/HAS2022.webp"
+			},
+			{
+				"id": "motion3_mimikin",
+				"name": "Mimikin",
+				"reference": "HAS2033",
+				"image": "images/HAS2033.webp"
+			},
+			{
+				"id": "motion3_toadal-dude",
+				"name": "Toadal Dude",
+				"reference": "HAS2038",
+				"image": "images/HAS2038.webp"
+			},
+			{
+				"id": "motion3_leggly",
+				"name": "Leggly",
+				"reference": "HAS2040",
+				"image": "images/HAS2040.webp"
+			},
+			{
+				"id": "motion3_bakulia",
+				"name": "Bakulia",
+				"reference": "HAS2044",
+				"image": "images/HAS2044.webp"
+			},
+			{
+				"id": "motion3_sandmeh",
+				"name": "Sandmeh",
+				"reference": "HAS2054",
+				"image": "images/HAS2054.webp"
+			},
+			{
+				"id": "motion3_mr-sandmeh",
+				"name": "Mr. Sandmeh",
+				"reference": "HAS2055",
+				"image": "images/HAS2055.webp"
+			},
+			{
+				"id": "motion3_scarasol",
+				"name": "Scarasol",
+				"reference": "HAS2057",
+				"image": "images/HAS2057.webp"
+			},
+			{
+				"id": "motion3_high-gnomey",
+				"name": "High Gnomey",
+				"reference": "HAS2060",
+				"image": "images/HAS2060.webp"
+			},
+			{
+				"id": "motion3_allnyta",
+				"name": "Allnyta",
+				"reference": "HAS2068",
+				"image": "images/HAS2068.webp"
+			},
+			{
+				"id": "motion3_herbiboy",
+				"name": "Herbiboy",
+				"reference": "HAS2069",
+				"image": "images/HAS2069.webp"
+			},
+			{
+				"id": "motion3_carniboy",
+				"name": "Carniboy",
+				"reference": "HAS2070",
+				"image": "images/HAS2070.webp"
+			},
+			{
+				"id": "motion3_y oink",
+				"name": "Yoink",
+				"reference": "HAS2071",
+				"image": "images/HAS2071.webp"
+			},
+			{
+				"id": "motion3_gimme",
+				"name": "Gimme (Swipinstuff)",
+				"reference": "HAS2072",
+				"image": "images/HAS2072.webp"
+			},
+			{
+				"id": "motion3_count-zapaway",
+				"name": "Count Zapaway",
+				"reference": "HAS2075",
+				"image": "images/HAS2075.webp"
+			},
+			{
+				"id": "motion3_eyellure",
+				"name": "Eyellure",
+				"reference": "HAS2081",
+				"image": "images/HAS2081.webp"
+			},
+			{
+				"id": "motion3_furdinand",
+				"name": "Furdinand",
+				"reference": "HAS2087",
+				"image": "images/HAS2087.webp"
+			},
+			{
+				"id": "motion3_nosirs",
+				"name": "Nosirs",
+				"reference": "HAS2088",
+				"image": "images/HAS2088.webp"
+			},
+			{
+				"id": "motion3_arachnus",
+				"name": "Arachnus",
+				"reference": "HAS2094",
+				"image": "images/HAS2094.webp"
+			},
+			{
+				"id": "motion3_whinona",
+				"name": "Whinona",
+				"reference": "HAS2098",
+				"image": "images/HAS2098.webp"
+			},
+			{
+				"id": "motion3_flushback",
+				"name": "Flushback",
+				"reference": "HAS2099",
+				"image": "images/HAS2099.webp"
+			},
+			{
+				"id": "motion3_robogramps",
+				"name": "Robogramps",
+				"reference": "HAS2120",
+				"image": "images/HAS2120.webp"
+			},
+			{
+				"id": "motion3_robonoko",
+				"name": "Robonoko",
+				"reference": "HAS2122",
+				"image": "images/HAS2122.webp"
+			},
+			{
+				"id": "motion3_snottle",
+				"name": "Snottle",
+				"reference": "HAS2165",
+				"image": "images/HAS2165.webp"
+			},
+			{
+				"id": "motion3_illuminoct",
+				"name": "Illuminoct",
+				"reference": "HAS2172",
+				"image": "images/HAS2172.webp"
+			}
+		]
+	},
+	{
+		"id": "motion-4",
+		"name": "Yo-Motion · Serie 4",
+		"source": "https://www.coleka.com/en/other-toys/yo-kai-watch/yo-kai-watch-medals/yo-kai-watch-yo-motion-series-4_r3100",
+		"medals": [
+			{
+				"id": "motion4_lafalotta",
+				"name": "Lafalotta",
+				"reference": "HAS1035-2",
+				"image": "images/HAS1035-2.webp"
+			},
+			{
+				"id": "motion4_infour",
+				"name": "Infour",
+				"reference": "HAS1052-2",
+				"image": "images/HAS1052-2.webp"
+			},
+			{
+				"id": "motion4_noway",
+				"name": "Noway",
+				"reference": "HAS1060-2",
+				"image": "images/HAS1060-2.webp"
+			},
+			{
+				"id": "motion4_bruff",
+				"name": "Bruff",
+				"reference": "HAS1072-2",
+				"image": "images/HAS1072-2.webp"
+			},
+			{
+				"id": "motion4_suspicioni",
+				"name": "Suspicioni",
+				"reference": "HAS1150-2",
+				"image": "images/HAS1150-2.webp"
+			},
+			{
+				"id": "motion4_cheeksqueek",
+				"name": "Cheeksqueek",
+				"reference": "HAS1180-2",
+				"image": "images/HAS1180-2.webp"
+			},
+			{
+				"id": "motion4_heheheel",
+				"name": "Heheheel",
+				"reference": "HAS1192-2",
+				"image": "images/HAS1192-2.webp"
+			},
+			{
+				"id": "motion4_daiz",
+				"name": "Daiz",
+				"reference": "HAS1201-2",
+				"image": "images/HAS1201-2.webp"
+			},
+			{
+				"id": "motion4_tublappa",
+				"name": "Tublappa",
+				"reference": "HAS2006",
+				"image": "images/HAS2006.webp"
+			},
+			{
+				"id": "motion4_master_oden",
+				"name": "Master Oden",
+				"reference": "HAS2021",
+				"image": "images/HAS2021.webp"
+			},
+			{
+				"id": "motion4_wotchagot",
+				"name": "Wotchagot",
+				"reference": "HAS2029",
+				"image": "images/HAS2029.webp"
+			},
+			{
+				"id": "motion4_enduriphant",
+				"name": "Enduriphant",
+				"reference": "HAS2034",
+				"image": "images/HAS2034.webp"
+			},
+			{
+				"id": "motion4_jumbelina",
+				"name": "Jumbelina",
+				"reference": "HAS2041",
+				"image": "images/HAS2041.webp"
+			},
+			{
+				"id": "motion4_drizzelda",
+				"name": "Drizzelda",
+				"reference": "HAS2045",
+				"image": "images/HAS2045.webp"
+			},
+			{
+				"id": "motion4_nurse_tongus",
+				"name": "Nurse Tongus",
+				"reference": "HAS2053",
+				"image": "images/HAS2053.webp"
+			},
+			{
+				"id": "motion4_gnomey",
+				"name": "Gnomey",
+				"reference": "HAS2059",
+				"image": "images/HAS2059.webp"
+			},
+			{
+				"id": "motion4_ray_o_light",
+				"name": "Ray O'Light",
+				"reference": "HAS2064",
+				"image": "images/HAS2064.webp"
+			},
+			{
+				"id": "motion4_unikirin",
+				"name": "Unikirin",
+				"reference": "HAS2066",
+				"image": "images/HAS2066.webp"
+			},
+			{
+				"id": "motion4_wydeawake",
+				"name": "Wydeawake",
+				"reference": "HAS2067",
+				"image": "images/HAS2067.webp"
+			},
+			{
+				"id": "motion4_snobetty",
+				"name": "Snobetty",
+				"reference": "HAS2077",
+				"image": "images/HAS2077.webp"
+			},
+			{
+				"id": "motion4_slimamander",
+				"name": "Slimamander",
+				"reference": "HAS2078",
+				"image": "images/HAS2078.webp"
+			},
+			{
+				"id": "motion4_wobblewok",
+				"name": "Wobblewok (Pottergeist)",
+				"reference": "HAS2082",
+				"image": "images/HAS2082.webp"
+			},
+			{
+				"id": "motion4_robbinyu",
+				"name": "Robbinyu",
+				"reference": "HAS2083",
+				"image": "images/HAS2083.webp"
+			},
+			{
+				"id": "motion4_squeeky",
+				"name": "Squeeky",
+				"reference": "HAS2084",
+				"image": "images/HAS2084.webp"
+			},
+			{
+				"id": "motion4_rawry",
+				"name": "Rawry",
+				"reference": "HAS2085",
+				"image": "images/HAS2085.webp"
+			},
+			{
+				"id": "motion4_furgus",
+				"name": "Furgus",
+				"reference": "HAS2086",
+				"image": "images/HAS2086.webp"
+			},
+			{
+				"id": "motion4_toiletta",
+				"name": "Toiletta",
+				"reference": "HAS2091",
+				"image": "images/HAS2091.webp"
+			},
+			{
+				"id": "motion4_foiletta",
+				"name": "Foiletta",
+				"reference": "HAS2092",
+				"image": "images/HAS2092.webp"
+			},
+			{
+				"id": "motion4_arachnia",
+				"name": "Arachnia",
+				"reference": "HAS2095",
+				"image": "images/HAS2095.webp"
+			},
+			{
+				"id": "motion4_vacuumory",
+				"name": "Vacuumory",
+				"reference": "HAS2100",
+				"image": "images/HAS2100.webp"
+			},
+			{
+				"id": "motion4_draaagin",
+				"name": "Draaagin",
+				"reference": "HAS2107",
+				"image": "images/HAS2107.webp"
+			},
+			{
+				"id": "motion4_slurpent",
+				"name": "Slurpent",
+				"reference": "HAS2111",
+				"image": "images/HAS2111.webp"
+			},
+			{
+				"id": "motion4_robokapp",
+				"name": "Robokapp",
+				"reference": "HAS2118",
+				"image": "images/HAS2118.webp"
+			},
+			{
+				"id": "motion4_robodraggie",
+				"name": "Robodraggie",
+				"reference": "HAS2123",
+				"image": "images/HAS2123.webp"
+			}
+		]
+	},
     {
       "id": "motion-exclusive",
-      "name": "Exclusivas Yo-Motion",
+      "name": "Yo-Motion· Exclusivas",
       "source": "https://www.coleka.com/en/other-toys/yo-kai-watch/yo-kai-watch-medals/yo-kai-watch-yo-motion-exclusives_r534",
       "medals": [
         {
           "id": "motion-exclusive-01",
           "name": "Jibanyan (Nyaight)",
-          "reference": "",
-          "image": ""
+          "reference": "exmotion03",
+          "image": "images/exmotion03.webp"
         },
         {
           "id": "motion-exclusive-02",
           "name": "Jibanyan (Nyext)",
-          "reference": "",
-          "image": ""
+          "reference": "exmotion04",
+          "image": "images/exmotion04.webp"
         },
         {
           "id": "motion-exclusive-03",
           "name": "Jibanyan (Victory)",
-          "reference": "",
-          "image": ""
+          "reference": "exmotion05",
+          "image": "images/exmotion05.webp"
         },
         {
           "id": "motion-exclusive-04",
           "name": "K'mon-K'mon",
-          "reference": "",
-          "image": ""
+          "reference": "exmotion06",
+          "image": "images/exmotion06.webp"
         },
         {
           "id": "motion-exclusive-05",
           "name": "Orcanos",
-          "reference": "",
-          "image": ""
+          "reference": "exmotion07",
+          "image": "images/exmotion07.webp"
         },
         {
           "id": "motion-exclusive-06",
           "name": "Tigappa",
-          "reference": "",
-          "image": ""
+          "reference": "exmotion08",
+          "image": "images/exmotion08.webp"
         },
         {
           "id": "motion-exclusive-07",
           "name": "Hovernyan",
-          "reference": "",
-          "image": ""
+          "reference": "exmotion09",
+          "image": "images/exmotion09.webp"
         },
         {
           "id": "motion-exclusive-08",
           "name": "Jibanyan S",
-          "reference": "",
-          "image": ""
+          "reference": "exmotion10",
+          "image": "images/exmotion10.webp"
         },
         {
           "id": "motion-exclusive-09",
           "name": "Komasan S",
-          "reference": "",
-          "image": ""
+          "reference": "exmotion11",
+          "image": "images/exmotion11.webp"
         },
         {
           "id": "motion-exclusive-10",
           "name": "Komajiro S",
-          "reference": "",
-          "image": ""
+          "reference": "exmotion12",
+          "image": "images/exmotion12.webp"
         },
         {
           "id": "motion-exclusive-11",
           "name": "Directator",
-          "reference": "",
-          "image": ""
+          "reference": "exmotion13",
+          "image": "images/exmotion13.webp"
         },
         {
           "id": "motion-exclusive-12",
           "name": "Jibanyan (Next HarMEOWny)",
-          "reference": "",
-          "image": ""
+          "reference": "exmotion14",
+          "image": "images/exmotion14.webp"
         },
         {
           "id": "motion-exclusive-13",
           "name": "Mochismo (variante Yo-Motion)",
-          "reference": "",
-          "image": ""
+          "reference": "exmotion15",
+          "image": "images/exmotion15.webp"
         },
         {
           "id": "motion-exclusive-14",
           "name": "Venoct (variante Yo-Motion)",
-          "reference": "",
-          "image": ""
+          "reference": "exmotion16",
+          "image": "images/exmotion16.webp"
         },
         {
           "id": "motion-exclusive-15",
           "name": "Darkyubi",
-          "reference": "",
-          "image": ""
+          "reference": "exmotion17",
+          "image": "images/exmotion17.webp"
         }
       ]
     },
-    {
+	{
+		"id": "motion-2x-1",
+		"name": "Yo-Motion 2X · Serie 1",
+		"source": "https://www.coleka.com/en/other-toys/yo-kai-watch/yo-kai-watch-medals/yo-kai-watch-yo-motion-2x-series-1_r4330",
+		"medals": [
+			{
+				"id": "motion2x1_buttered_blue",
+				"name": "Buttered Blue",
+				"reference": "2x01",
+				"image": "images/2x01.webp"
+			},
+			{
+				"id": "motion2x1_jibanyan_s",
+				"name": "Jibanyan S",
+				"reference": "2x02",
+				"image": "images/2x02.webp"
+			},
+			{
+				"id": "motion2x1_lazy_sundae",
+				"name": "Lazy Sundae",
+				"reference": "2x03",
+				"image": "images/2x03.webp"
+			},
+			{
+				"id": "motion2x1_phesanyan",
+				"name": "Phesanyan",
+				"reference": "2x04",
+				"image": "images/2x04.webp"
+			},
+			{
+				"id": "motion2x1_puppiccino",
+				"name": "Puppiccino",
+				"reference": "2x05",
+				"image": "images/2x05.webp"
+			},
+			{
+				"id": "motion2x1_puppynyan",
+				"name": "Puppynyan",
+				"reference": "2x06",
+				"image": "images/2x06.webp"
+			},
+			{
+				"id": "motion2x1_duke_doggy",
+				"name": "Duke Doggy",
+				"reference": "2x07",
+				"image": "images/2x07.webp"
+			},
+			{
+				"id": "motion2x1_b3_nk1",
+				"name": "B3-NK1",
+				"reference": "2x08",
+				"image": "images/2x08.webp"
+			},
+			{
+				"id": "motion2x1_captain_thunder",
+				"name": "Captain Thunder",
+				"reference": "2x09",
+				"image": "images/2x09.webp"
+			},
+			{
+				"id": "motion2x1_chimpanyan",
+				"name": "Chimpanyan",
+				"reference": "2x10",
+				"image": "images/2x10.webp"
+			},
+			{
+				"id": "motion2x1_chymera",
+				"name": "Chymera",
+				"reference": "2x11",
+				"image": "images/2x11.webp"
+			},
+			{
+				"id": "motion2x1_cornfused",
+				"name": "Cornfused",
+				"reference": "2x12",
+				"image": "images/2x12.webp"
+			},
+			{
+				"id": "motion2x1_disliking",
+				"name": "Disliking",
+				"reference": "2x13",
+				"image": "images/2x13.webp"
+			},
+			{
+				"id": "motion2x1_dismarelda",
+				"name": "Dismarelda",
+				"reference": "2x14",
+				"image": "images/2x14.webp"
+			},
+			{
+				"id": "motion2x1_everfore",
+				"name": "Everfore",
+				"reference": "2x15",
+				"image": "images/2x15.webp"
+			},
+			{
+				"id": "motion2x1_flushback",
+				"name": "Flushback",
+				"reference": "2x16",
+				"image": "images/2x16.webp"
+			},
+			{
+				"id": "motion2x1_gargaros",
+				"name": "Gargaros",
+				"reference": "2x17",
+				"image": "images/2x17.webp"
+			},
+			{
+				"id": "motion2x1_happierre",
+				"name": "Happierre",
+				"reference": "2x18",
+				"image": "images/2x18.webp"
+			},
+			{
+				"id": "motion2x1_hinozall",
+				"name": "Hinozall",
+				"reference": "2x19",
+				"image": "images/2x19.webp"
+			},
+			{
+				"id": "motion2x1_illuminoct",
+				"name": "Illuminoct",
+				"reference": "2x20",
+				"image": "images/2x20.webp"
+			},
+			{
+				"id": "motion2x1_momonyan",
+				"name": "Momonyan",
+				"reference": "2x21",
+				"image": "images/2x21.webp"
+			},
+			{
+				"id": "motion2x1_noko",
+				"name": "Noko",
+				"reference": "2x22",
+				"image": "images/2x22.webp"
+			},
+			{
+				"id": "motion2x1_omgator",
+				"name": "OMGator",
+				"reference": "2x23",
+				"image": "images/2x23.webp"
+			},
+			{
+				"id": "motion2x1_pink_emperor",
+				"name": "Pink Emperor",
+				"reference": "2x24",
+				"image": "images/2x24.webp"
+			},
+			{
+				"id": "motion2x1_poofessor",
+				"name": "Poofessor",
+				"reference": "2x25",
+				"image": "images/2x25.webp"
+			},
+			{
+				"id": "motion2x1_putasockinit",
+				"name": "Putasockinit",
+				"reference": "2x26",
+				"image": "images/2x26.webp"
+			},
+			{
+				"id": "motion2x1_rinsin_repete",
+				"name": "Rinsin Repete",
+				"reference": "2x27",
+				"image": "images/2x27.webp"
+			},
+			{
+				"id": "motion2x1_robonyan_f",
+				"name": "Robonyan F",
+				"reference": "2x28",
+				"image": "images/2x28.webp"
+			},
+			{
+				"id": "motion2x1_statiking",
+				"name": "Statiking",
+				"reference": "2x29",
+				"image": "images/2x29.webp"
+			},
+			{
+				"id": "motion2x1_terrorpotta",
+				"name": "Terrorpotta",
+				"reference": "2x30",
+				"image": "images/2x30.webp"
+			},
+			{
+				"id": "motion2x1_wazzat",
+				"name": "Wazzat",
+				"reference": "2x31",
+				"image": "images/2x31.webp"
+			},
+			{
+				"id": "motion2x1_wiglin",
+				"name": "Wiglin",
+				"reference": "2x32",
+				"image": "images/2x32.webp"
+			},
+			{
+				"id": "motion2x1_wobblewok",
+				"name": "Wobblewok",
+				"reference": "2x33",
+				"image": "images/2x33.webp"
+			},
+			{
+				"id": "motion2x1_zappary",
+				"name": "Zappary",
+				"reference": "2x34",
+				"image": "images/2x34.webp"
+			}
+		]
+	},
+	{
       "id": "motion-2x-exclusive",
       "name": "Yo-Motion 2X · Exclusivas",
       "source": "https://www.coleka.com/en/other-toys/yo-kai-watch/yo-kai-watch-medals_r3400",
       "medals": [
         {
           "id": "motion-2x-exclusive-01",
-          "name": "Usapyon (Model U)",
-          "reference": "",
-          "image": ""
+          "name": "Blazion (B Medal)",
+          "reference": "exmotion01",
+          "image": "images/exmotion01.webp"
         },
         {
           "id": "motion-2x-exclusive-02",
-          "name": "Blazion (B Medal)",
-          "reference": "",
-          "image": ""
+          "name": "Usapyon (Model U)",
+          "reference": "exmotion02",
+          "image": "images/exmotion02.webp"
         }
       ]
     }

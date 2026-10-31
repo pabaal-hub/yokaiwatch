@@ -31,3 +31,70 @@ button{cursor:pointer}.filter.active{background:var(--panel2);border-color:var(-
 footer{font-size:.78rem;color:var(--muted);margin-top:24px}code{color:var(--text)}
 .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
 @media(max-width:560px){.app{padding:16px 12px 36px}.toolbar{flex-direction:column}.filters{gap:6px}.filter,.secondary{padding:8px 10px}.group{padding:12px}.medal-image{width:50px;height:50px;flex-basis:50px}}
+/* COLECCIONES COLAPSABLES */
+
+.group {
+  overflow: hidden;
+}
+
+.group-head {
+  cursor: pointer;
+  user-select: none;
+}
+
+.group-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  gap: 12px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  text-align: left;
+  font: inherit;
+  cursor: pointer;
+}
+
+.group-toggle:focus-visible {
+  outline: 2px solid var(--accent, #777);
+  outline-offset: 4px;
+  border-radius: 4px;
+}
+
+.group-toggle-content {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-width: 0;
+}
+
+.group-chevron {
+  display: inline-block;
+  flex-shrink: 0;
+  transition: transform 0.2s ease;
+}
+
+.group.collapsed .group-chevron {
+  transform: rotate(-90deg);
+}
+
+.group-content {
+  display: grid;
+  grid-template-rows: 1fr;
+  transition: grid-template-rows 0.2s ease;
+}
+
+.group.collapsed .group-content {
+  grid-template-rows: 0fr;
+}
+
+.group-content-inner {
+  min-height: 0;
+  overflow: hidden;
+}
+
+.group-content-inner > .medal-row:first-child {
+  margin-top: 12px;
+}

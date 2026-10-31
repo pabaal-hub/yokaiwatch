@@ -1,0 +1,937 @@
+{
+  "title": "Mi colección Yo-kai Watch",
+  "edition": "Hasbro · Europa",
+  "notice": "Catálogo preliminar. Verifica nombres, referencias y variantes antes de considerarlo un inventario definitivo.",
+  "collections": [
+    {
+      "id": "motion-1",
+      "name": "Yo-Motion · Serie 1",
+      "source": "https://www.coleka.com/en/other-toys/yo-kai-watch/yo-kai-watch-medals/yo-kai-watch-yo-motion-series-1_r532",
+      "medals": [
+        {
+          "id": "motion-1-01",
+          "name": "Robonyan",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-1-02",
+          "name": "Jibanyan",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-1-03",
+          "name": "Walkappa",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-1-04",
+          "name": "Happierre",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-1-05",
+          "name": "Hidabat",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-1-06",
+          "name": "Dismarelda",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-1-07",
+          "name": "Lie-in",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-1-08",
+          "name": "Lie-in Heart",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-1-09",
+          "name": "Hissfit",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-1-10",
+          "name": "Slicenrice",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-1-11",
+          "name": "Flamurice",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-1-12",
+          "name": "Sgt. Burly",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-1-13",
+          "name": "Demuncher",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-1-14",
+          "name": "Devourer",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-1-15",
+          "name": "Brokenbella",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-1-16",
+          "name": "Bowminos",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-1-17",
+          "name": "Smogmella",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-1-18",
+          "name": "Miradox",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-1-19",
+          "name": "Pride Shrimp",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-1-20",
+          "name": "Zappary",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-1-21",
+          "name": "Swelton",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-1-22",
+          "name": "Boyclops",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-1-23",
+          "name": "Buchinyan",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-1-24",
+          "name": "Kappa",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-1-25",
+          "name": "Tongus",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-1-26",
+          "name": "Pallysol",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-1-27",
+          "name": "Smashibull",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-1-28",
+          "name": "Firewig",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-1-29",
+          "name": "Lady Longnek",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-1-30",
+          "name": "Spoilerina",
+          "reference": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "motion-2",
+      "name": "Yo-Motion · Serie 2",
+      "source": "https://www.coleka.com/en/other-toys/yo-kai-watch/yo-kai-watch-medals/yo-kai-watch-yo-motion-series-2_r533",
+      "medals": [
+        {
+          "id": "motion-2-01",
+          "name": "Illoo",
+          "reference": "HAS1048-2",
+          "image": "images/HAS1048-2.webp"
+        },
+        {
+          "id": "motion-2-02",
+          "name": "Thornyan",
+          "reference": "HAS1094-2",
+          "image": "images/HAS1094-2.webp"
+        },
+        {
+          "id": "motion-2-03",
+          "name": "Komasan",
+          "reference": "HAS1099-2",
+          "image": "images/HAS1099-2.webp"
+        },
+        {
+          "id": "motion-2-04",
+          "name": "Komajiro",
+          "reference": "HAS1101-2",
+          "image": "images/HAS1101-2.webp"
+        },
+        {
+          "id": "motion-2-05",
+          "name": "Grubsnitch",
+          "reference": "HAS1115-2",
+          "image": "images/HAS1115-2.webp"
+        },
+        {
+          "id": "motion-2-06",
+          "name": "Enerfly",
+          "reference": "HAS1121-2",
+          "image": "images/HAS1121-2.webp"
+        },
+        {
+          "id": "motion-2-07",
+          "name": "Enefly",
+          "reference": "HAS1122-2",
+          "image": "images/HAS1122-2.webp"
+        },
+        {
+          "id": "motion-2-08",
+          "name": "Pittapatt",
+          "reference": "HAS2014",
+          "image": "images/HAS2014.webp"
+        },
+        {
+          "id": "motion-2-09",
+          "name": "Houzzat",
+          "reference": "HAS2015",
+          "image": "images/HAS2015.webp"
+        },
+        {
+          "id": "motion-2-10",
+          "name": "Faysoff",
+          "reference": "HAS2016",
+          "image": "images/HAS2016.webp"
+        },
+        {
+          "id": "motion-2-11",
+          "name": "So-Sorree",
+          "reference": "HAS2017",
+          "image": "images/HAS2017.webp"
+        },
+        {
+          "id": "motion-2-12",
+          "name": "Apelican",
+          "reference": "HAS2023",
+          "image": "images/HAS2023.webp"
+        },
+        {
+          "id": "motion-2-13",
+          "name": "Verygoodsir",
+          "reference": "HAS2025",
+          "image": "images/HAS2025.webp"
+        },
+        {
+          "id": "motion-2-14",
+          "name": "Kingmera",
+          "reference": "HAS2027",
+          "image": "images/HAS2027.webp"
+        },
+        {
+          "id": "motion-2-15",
+          "name": "Terrorpotta",
+          "reference": "HAS2028",
+          "image": "images/HAS2028.webp"
+        },
+        {
+          "id": "motion-2-16",
+          "name": "No-Go Kart",
+          "reference": "HAS2031",
+          "image": "images/HAS2031.webp"
+        },
+        {
+          "id": "motion-2-17",
+          "name": "Mistank",
+          "reference": "HAS2032",
+          "image": "images/HAS2032.webp"
+        },
+        {
+          "id": "motion-2-18",
+          "name": "Frazzel",
+          "reference": "HAS2036",
+          "image": "images/HAS2036.webp"
+        },
+        {
+          "id": "motion-2-19",
+          "name": "Nekidspeed",
+          "reference": "HAS2046",
+          "image": "images/HAS2046.webp"
+        },
+        {
+          "id": "motion-2-20",
+          "name": "Supoor Hero",
+          "reference": "HAS2058",
+          "image": "images/HAS2058.webp"
+        },
+        {
+          "id": "motion-2-21",
+          "name": "Kyryn",
+          "reference": "HAS2065",
+          "image": "images/HAS2065.webp"
+        },
+        {
+          "id": "motion-2-22",
+          "name": "Yoodooit",
+          "reference": "HAS2074",
+          "image": "images/HAS2074.webp"
+        },
+        {
+          "id": "motion-2-23",
+          "name": "Dracunyan",
+          "reference": "HAS2079",
+          "image": "images/HAS2079.webp"
+        },
+        {
+          "id": "motion-2-24",
+          "name": "Papa Windbag",
+          "reference": "HAS2089",
+          "image": "images/HAS2089.webp"
+        },
+        {
+          "id": "motion-2-25",
+          "name": "Ben Tover",
+          "reference": "HAS2090",
+          "image": "images/HAS2090.webp"
+        },
+        {
+          "id": "motion-2-26",
+          "name": "Cricky",
+          "reference": "HAS2096",
+          "image": "images/HAS2096.webp"
+        },
+        {
+          "id": "motion-2-27",
+          "name": "Snaggly",
+          "reference": "HAS2097",
+          "image": "images/HAS2097.webp"
+        },
+        {
+          "id": "motion-2-28",
+          "name": "Irewig",
+          "reference": "HAS2101",
+          "image": "images/HAS2101.webp"
+        },
+        {
+          "id": "motion-2-29",
+          "name": "Mermother",
+          "reference": "HAS2105",
+          "image": "images/HAS2105.webp"
+        },
+        {
+          "id": "motion-2-30",
+          "name": "SV Snaggerjag",
+          "reference": "HAS2108",
+          "image": "images/HAS2108.webp"
+        },
+        {
+          "id": "motion-2-31",
+          "name": "Poofessor",
+          "reference": "HAS2110",
+          "image": "images/HAS2110.webp"
+        },
+        {
+          "id": "motion-2-32",
+          "name": "Robokoma",
+          "reference": "HAS2119",
+          "image": "images/HAS2119.webp"
+        },
+        {
+          "id": "motion-2-33",
+          "name": "Robonyan F",
+          "reference": "HAS2125",
+          "image": "images/HAS2125.webp"
+        }
+      ]
+    },
+    {
+      "id": "motion-3",
+      "name": "Yo-Motion · Serie 3",
+      "source": "https://www.coleka.com/en/other-toys/yo-kai-watch/yo-kai-watch-medals/yo-kai-watch-yo-motion-series-3_r2185",
+      "medals": [
+        {
+          "id": "motion-3-01",
+          "name": "Blazion",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-02",
+          "name": "Tattletell",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-03",
+          "name": "Fidgephant",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-04",
+          "name": "Roughraff",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-05",
+          "name": "Pandanoko",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-06",
+          "name": "Shogunyan",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-07",
+          "name": "Whisper",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-08",
+          "name": "Brushido",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-09",
+          "name": "Washogun",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-10",
+          "name": "Failian",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-11",
+          "name": "Mimikin",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-12",
+          "name": "Toadal Dude",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-13",
+          "name": "Leggly",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-14",
+          "name": "Bakulia",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-15",
+          "name": "Sandmeh",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-16",
+          "name": "Mr. Sandmeh",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-17",
+          "name": "Scarasol",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-18",
+          "name": "High Gnomey",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-19",
+          "name": "Allnyta",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-20",
+          "name": "Herbiboy",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-21",
+          "name": "Carniboy",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-22",
+          "name": "Yoink",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-23",
+          "name": "Gimme (Swipinstuff)",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-24",
+          "name": "Count Zapaway",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-25",
+          "name": "Eyellure",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-26",
+          "name": "Furdinand",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-27",
+          "name": "Nosirs",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-28",
+          "name": "Arachnus",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-29",
+          "name": "Whinona",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-30",
+          "name": "Flushback",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-31",
+          "name": "Robogramps",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-32",
+          "name": "Robonoko",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-33",
+          "name": "Snottle",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-3-34",
+          "name": "Illuminoct",
+          "reference": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "motion-4",
+      "name": "Yo-Motion · Serie 4",
+      "source": "https://www.coleka.com/en/other-toys/yo-kai-watch/yo-kai-watch-medals/yo-kai-watch-yo-motion-series-4_r3100",
+      "medals": [
+        {
+          "id": "motion-4-01",
+          "name": "Lafalotta",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-02",
+          "name": "Infour",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-03",
+          "name": "Noway",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-04",
+          "name": "Bruff",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-05",
+          "name": "Suspicioni",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-06",
+          "name": "Cheeksqueek",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-07",
+          "name": "Heheheel",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-08",
+          "name": "Daiz",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-09",
+          "name": "Tublappa",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-10",
+          "name": "Master Oden",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-11",
+          "name": "Wotchagot",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-12",
+          "name": "Enduriphant",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-13",
+          "name": "Jumbelina",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-14",
+          "name": "Drizzelda",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-15",
+          "name": "Nurse Tongus",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-16",
+          "name": "Gnomey",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-17",
+          "name": "Ray O'Light",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-18",
+          "name": "Unikirin",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-19",
+          "name": "Wydeawake",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-20",
+          "name": "Snobetty",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-21",
+          "name": "Slimamander",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-22",
+          "name": "Wobblewok (Pottergeist)",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-23",
+          "name": "Robbinyu",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-24",
+          "name": "Squeeky",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-25",
+          "name": "Rawry",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-26",
+          "name": "Furgus",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-27",
+          "name": "Toiletta",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-28",
+          "name": "Foiletta",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-29",
+          "name": "Arachnia",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-30",
+          "name": "Vacuumory",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-31",
+          "name": "Draaagin",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-32",
+          "name": "Slurpent",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-33",
+          "name": "Robokapp",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-4-34",
+          "name": "Robodraggie",
+          "reference": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "motion-exclusive",
+      "name": "Exclusivas Yo-Motion",
+      "source": "https://www.coleka.com/en/other-toys/yo-kai-watch/yo-kai-watch-medals/yo-kai-watch-yo-motion-exclusives_r534",
+      "medals": [
+        {
+          "id": "motion-exclusive-01",
+          "name": "Jibanyan (Nyaight)",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-exclusive-02",
+          "name": "Jibanyan (Nyext)",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-exclusive-03",
+          "name": "Jibanyan (Victory)",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-exclusive-04",
+          "name": "K'mon-K'mon",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-exclusive-05",
+          "name": "Orcanos",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-exclusive-06",
+          "name": "Tigappa",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-exclusive-07",
+          "name": "Hovernyan",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-exclusive-08",
+          "name": "Jibanyan S",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-exclusive-09",
+          "name": "Komasan S",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-exclusive-10",
+          "name": "Komajiro S",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-exclusive-11",
+          "name": "Directator",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-exclusive-12",
+          "name": "Jibanyan (Next HarMEOWny)",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-exclusive-13",
+          "name": "Mochismo (variante Yo-Motion)",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-exclusive-14",
+          "name": "Venoct (variante Yo-Motion)",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-exclusive-15",
+          "name": "Darkyubi",
+          "reference": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "motion-2x-exclusive",
+      "name": "Yo-Motion 2X · Exclusivas",
+      "source": "https://www.coleka.com/en/other-toys/yo-kai-watch/yo-kai-watch-medals_r3400",
+      "medals": [
+        {
+          "id": "motion-2x-exclusive-01",
+          "name": "Usapyon (Model U)",
+          "reference": "",
+          "image": ""
+        },
+        {
+          "id": "motion-2x-exclusive-02",
+          "name": "Blazion (B Medal)",
+          "reference": "",
+          "image": ""
+        }
+      ]
+    }
+  ]
+}

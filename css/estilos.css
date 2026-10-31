@@ -1,0 +1,33 @@
+*{box-sizing:border-box}
+:root{color-scheme:light dark;--bg:#171522;--panel:#242133;--panel2:#302b43;--text:#f6f2ff;--muted:#bcb5ca;--accent:#f0c75e;--line:#454055}
+@media(prefers-color-scheme:light){:root{color-scheme:light;--bg:#f5f3f8;--panel:#fff;--panel2:#f0edf5;--text:#292437;--muted:#70697c;--accent:#9b7411;--line:#ded9e7}}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif}
+.app{max-width:980px;margin:0 auto;padding:24px 18px 48px}
+.hero{display:flex;align-items:center;justify-content:space-between;gap:18px;padding:24px 0}
+.eyebrow{font-size:.72rem;letter-spacing:.12em;color:var(--muted);font-weight:700;margin:0 0 5px}
+h1{font-size:clamp(2rem,6vw,3.1rem);line-height:1.05;margin:0}
+.subtitle{color:var(--muted);margin:9px 0 0}
+.total{text-align:right;min-width:90px}.total strong{display:block;font-size:2rem}.total span{font-size:.78rem;color:var(--muted)}
+.progress-card,.group{background:var(--panel);border:1px solid var(--line);border-radius:15px;padding:15px}
+.progress-track{height:9px;background:var(--line);border-radius:99px;overflow:hidden}
+#progress-bar{height:100%;width:0;background:var(--accent);transition:width .2s}
+.progress-labels{display:flex;justify-content:space-between;color:var(--muted);font-size:.78rem;margin-top:8px}
+.toolbar{display:flex;gap:10px;margin:18px 0 10px}
+input,select,button{font:inherit;color:var(--text);background:var(--panel);border:1px solid var(--line);border-radius:9px;padding:10px}
+input,select{min-width:0;flex:1}input::placeholder{color:var(--muted)}
+.filters{display:flex;gap:7px;flex-wrap:wrap;margin-bottom:18px}
+button{cursor:pointer}.filter.active{background:var(--panel2);border-color:var(--accent)}
+.secondary{font-size:.85rem}.spacer{flex:1}
+.catalogue{display:grid;gap:14px}
+.group h2{font-size:1.05rem;margin:0}.group-head{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:8px}
+.group-head a{font-size:.78rem;color:var(--muted)}
+.group-count{font-size:.76rem;color:var(--muted);white-space:nowrap}
+.medal-row{display:flex;align-items:center;gap:12px;padding:10px 2px;border-top:1px solid var(--line);min-height:78px}
+.medal-image{width:56px;height:56px;flex:0 0 56px;border-radius:50%;object-fit:cover;background:radial-gradient(circle at 35% 30%,#fff4bd,#d7bd70 62%,#8c713b);border:3px solid #c7ad66}
+.medal-placeholder{display:grid;place-items:center;color:#58451b;font-weight:800;font-size:.58rem;letter-spacing:.04em}
+.medal-info{flex:1;min-width:0}.medal-name{font-weight:650}.medal-ref{font-size:.74rem;color:var(--muted)}
+.medal-row input{flex:0 0 20px;width:20px;height:20px;accent-color:var(--accent)}
+.empty{padding:20px;text-align:center;color:var(--muted);background:var(--panel);border-radius:12px}
+footer{font-size:.78rem;color:var(--muted);margin-top:24px}code{color:var(--text)}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+@media(max-width:560px){.app{padding:16px 12px 36px}.toolbar{flex-direction:column}.filters{gap:6px}.filter,.secondary{padding:8px 10px}.group{padding:12px}.medal-image{width:50px;height:50px;flex-basis:50px}}

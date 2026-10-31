@@ -1,5 +1,5 @@
 
-const CACHE_NAME = "yokai-collection-v1";
+const CACHE_NAME = "yokai-collection-v2";
 
 const APP_FILES = [
     "./",
